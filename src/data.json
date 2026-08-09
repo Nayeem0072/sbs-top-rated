@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T05:21:13.409Z",
+  "generatedAt": "2026-08-09T15:18:11.176Z",
   "movies": [
     {
       "rank": 1,
@@ -227,7 +227,7 @@
         "Nasser Adra"
       ],
       "directors": [
-        "Rachel Szor",
+        "Basel Adra",
         "Hamdan Ballal"
       ],
       "creators": [],
@@ -1072,8 +1072,8 @@
         "Marius Goring"
       ],
       "directors": [
-        "Michael Powell",
-        "Emeric Pressburger"
+        "Emeric Pressburger",
+        "Michael Powell"
       ],
       "creators": [],
       "imdbID": "tt0038733",
@@ -2309,8 +2309,8 @@
         "Flora Robson"
       ],
       "directors": [
-        "Emeric Pressburger",
-        "Michael Powell"
+        "Michael Powell",
+        "Emeric Pressburger"
       ],
       "creators": [],
       "imdbID": "tt0039192",
