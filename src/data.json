@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T15:18:11.176Z",
+  "generatedAt": "2026-08-10T15:46:11.062Z",
   "movies": [
     {
       "rank": 1,
@@ -109,6 +109,32 @@
     },
     {
       "rank": 5,
+      "title": "Django Unchained",
+      "year": "2012",
+      "imdbRating": 8.5,
+      "imdbVotes": 1901438,
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "cast": [
+        "Jamie Foxx",
+        "Christoph Waltz",
+        "Leonardo DiCaprio",
+        "Kerry Washington"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "creators": [],
+      "imdbID": "tt1853728",
+      "tmdbId": 68718,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt1853728/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Django%20Unchained"
+    },
+    {
+      "rank": 6,
       "title": "The Great Dictator",
       "year": "1940",
       "imdbRating": 8.4,
@@ -134,7 +160,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/The%20Great%20Dictator"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Capernaum",
       "year": "2018",
       "imdbRating": 8.4,
@@ -159,7 +185,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Capernaum"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "The Lives of Others",
       "year": "2006",
       "imdbRating": 8.4,
@@ -185,7 +211,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/The%20Lives%20of%20Others"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Princess Mononoke",
       "year": "1997",
       "imdbRating": 8.3,
@@ -212,7 +238,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Princess%20Mononoke"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "No Other Land",
       "year": "2024",
       "imdbRating": 8.3,
@@ -238,7 +264,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/No%20Other%20Land"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "Kaaka Muttai",
       "year": "2015",
       "imdbRating": 8.3,
@@ -263,7 +289,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Kaaka%20Muttai"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "The Father",
       "year": "2020",
       "imdbRating": 8.2,
@@ -288,7 +314,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/The%20Father"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "Metropolis",
       "year": "1927",
       "imdbRating": 8.2,
@@ -314,7 +340,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Metropolis"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "Yojimbo",
       "year": "1961",
       "imdbRating": 8.2,
@@ -340,7 +366,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Yojimbo"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "There Will Be Blood",
       "year": "2007",
       "imdbRating": 8.2,
@@ -365,7 +391,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/There%20Will%20Be%20Blood"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "Unforgiven",
       "year": "1992",
       "imdbRating": 8.2,
@@ -390,7 +416,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Unforgiven"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "Searching for Sugar Man",
       "year": "2012",
       "imdbRating": 8.2,
@@ -416,7 +442,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Searching%20for%20Sugar%20Man"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "The Handmaiden",
       "year": "2016",
       "imdbRating": 8.1,
@@ -443,7 +469,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/The%20Handmaiden"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "Tokyo Story",
       "year": "1953",
       "imdbRating": 8.1,
@@ -468,7 +494,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Tokyo%20Story"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "Paris, Texas",
       "year": "1984",
       "imdbRating": 8.1,
@@ -493,7 +519,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Paris%2C%20Texas"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "Memories of Murder",
       "year": "2003",
       "imdbRating": 8.1,
@@ -520,7 +546,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Memories%20of%20Murder"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "Hachi: A Dog's Tale",
       "year": "2009",
       "imdbRating": 8.1,
@@ -546,7 +572,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Hachi%3A%20A%20Dog's%20Tale"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "The Red Shoes",
       "year": "1948",
       "imdbRating": 8.1,
@@ -573,7 +599,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/The%20Red%20Shoes"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "Nights of Cabiria",
       "year": "1957",
       "imdbRating": 8.1,
@@ -599,7 +625,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Nights%20of%20Cabiria"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "Gone Girl",
       "year": "2014",
       "imdbRating": 8.1,
@@ -626,7 +652,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Gone%20Girl"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "The Third Man",
       "year": "1949",
       "imdbRating": 8.1,
@@ -652,7 +678,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/The%20Third%20Man"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "title": "Mary and Max",
       "year": "2009",
       "imdbRating": 8.1,
@@ -679,7 +705,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Mary%20and%20Max"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "title": "Grand Illusion",
       "year": "1937",
       "imdbRating": 8.1,
@@ -706,7 +732,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Grand%20Illusion"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "title": "Fargo",
       "year": "1996",
       "imdbRating": 8.1,
@@ -734,7 +760,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Fargo"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "The Big Lebowski",
       "year": "1998",
       "imdbRating": 8.1,
@@ -761,7 +787,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/The%20Big%20Lebowski"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "title": "The Bridge on the River Kwai",
       "year": "1957",
       "imdbRating": 8.1,
@@ -788,7 +814,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/The%20Bridge%20on%20the%20River%20Kwai"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "title": "A Short Film About Love",
       "year": "1988",
       "imdbRating": 8.1,
@@ -814,7 +840,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/A%20Short%20Film%20About%20Love"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "title": "Portrait of a Lady on Fire",
       "year": "2019",
       "imdbRating": 8,
@@ -840,7 +866,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Portrait%20of%20a%20Lady%20on%20Fire"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "title": "The Hidden Fortress",
       "year": "1958",
       "imdbRating": 8,
@@ -867,7 +893,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/The%20Hidden%20Fortress"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "title": "Warriors of the Wind",
       "year": "1984",
       "imdbRating": 8,
@@ -894,7 +920,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Warriors%20of%20the%20Wind"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "Sanjuro",
       "year": "1962",
       "imdbRating": 8,
@@ -921,7 +947,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Sanjuro"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "Throne of Blood",
       "year": "1957",
       "imdbRating": 8,
@@ -947,7 +973,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Throne%20of%20Blood"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "title": "Roman Holiday",
       "year": "1953",
       "imdbRating": 8,
@@ -974,7 +1000,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Roman%20Holiday"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "title": "Limelight",
       "year": "1952",
       "imdbRating": 8,
@@ -1001,7 +1027,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Limelight"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "title": "Le Samouraï",
       "year": "1967",
       "imdbRating": 8,
@@ -1028,7 +1054,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Le%20Samoura%C3%AF"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "title": "Donnie Darko",
       "year": "2001",
       "imdbRating": 8,
@@ -1055,7 +1081,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Donnie%20Darko"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "title": "A Matter of Life and Death",
       "year": "1946",
       "imdbRating": 8,
@@ -1083,7 +1109,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/A%20Matter%20of%20Life%20and%20Death"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "title": "Big Fish",
       "year": "2003",
       "imdbRating": 8,
@@ -1110,7 +1136,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Big%20Fish"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "title": "Brief Encounter",
       "year": "1945",
       "imdbRating": 8,
@@ -1136,7 +1162,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Brief%20Encounter"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "title": "Groundhog Day",
       "year": "1993",
       "imdbRating": 8,
@@ -1163,7 +1189,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Groundhog%20Day"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "title": "Sin City",
       "year": "2005",
       "imdbRating": 8,
@@ -1190,7 +1216,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Sin%20City"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "title": "The Life and Death of Colonel Blimp",
       "year": "1943",
       "imdbRating": 8,
@@ -1218,7 +1244,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/The%20Life%20and%20Death%20of%20Colonel%20Blimp"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "title": "A Taxi Driver",
       "year": "2017",
       "imdbRating": 7.9,
@@ -1245,7 +1271,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/A%20Taxi%20Driver"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "title": "Perfect Days",
       "year": "2023",
       "imdbRating": 7.9,
@@ -1270,7 +1296,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Perfect%20Days"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "Wings of Desire",
       "year": "1987",
       "imdbRating": 7.9,
@@ -1295,33 +1321,6 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt0093191/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Wings%20of%20Desire"
-    },
-    {
-      "rank": 50,
-      "title": "Mystic River",
-      "year": "2003",
-      "imdbRating": 7.9,
-      "imdbVotes": 515917,
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Mystery"
-      ],
-      "cast": [
-        "Sean Penn",
-        "Tim Robbins",
-        "Kevin Bacon",
-        "Laurence Fishburne"
-      ],
-      "directors": [
-        "Clint Eastwood"
-      ],
-      "creators": [],
-      "imdbID": "tt0327056",
-      "tmdbId": 322,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/hCHVDbo6XJGj3r2i4hVjKhE0GKF.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt0327056/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Mystic%20River"
     },
     {
       "rank": 51,
@@ -1404,32 +1403,6 @@
     },
     {
       "rank": 54,
-      "title": "Fitzcarraldo",
-      "year": "1982",
-      "imdbRating": 7.9,
-      "imdbVotes": 42549,
-      "genres": [
-        "Drama",
-        "Adventure"
-      ],
-      "cast": [
-        "Klaus Kinski",
-        "Claudia Cardinale",
-        "José Lewgoy",
-        "Miguel Ángel Fuentes"
-      ],
-      "directors": [
-        "Werner Herzog"
-      ],
-      "creators": [],
-      "imdbID": "tt0083946",
-      "tmdbId": 9343,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt0083946/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Fitzcarraldo"
-    },
-    {
-      "rank": 55,
       "title": "A Short Film About Killing",
       "year": "1988",
       "imdbRating": 7.9,
@@ -1453,6 +1426,32 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/k7sk4yNdoXY7iwp1M9QTZuBDiJS.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt0095468/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/A%20Short%20Film%20About%20Killing"
+    },
+    {
+      "rank": 55,
+      "title": "Fitzcarraldo",
+      "year": "1982",
+      "imdbRating": 7.9,
+      "imdbVotes": 42549,
+      "genres": [
+        "Drama",
+        "Adventure"
+      ],
+      "cast": [
+        "Klaus Kinski",
+        "Claudia Cardinale",
+        "José Lewgoy",
+        "Miguel Ángel Fuentes"
+      ],
+      "directors": [
+        "Werner Herzog"
+      ],
+      "creators": [],
+      "imdbID": "tt0083946",
+      "tmdbId": 9343,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt0083946/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Fitzcarraldo"
     },
     {
       "rank": 56,
@@ -2740,8 +2739,8 @@
       ],
       "cast": [
         "Richard Belzer",
-        "Peter Gerety",
         "Giancarlo Esposito",
+        "Peter Gerety",
         "Clark Johnson"
       ],
       "directors": [],
@@ -3791,26 +3790,6 @@
     },
     {
       "rank": 46,
-      "title": "Gordon Ramsay: Uncharted",
-      "year": "2019",
-      "imdbRating": 7.7,
-      "imdbVotes": 2011,
-      "genres": [
-        "Documentary"
-      ],
-      "cast": [
-        "Gordon Ramsay"
-      ],
-      "directors": [],
-      "creators": [],
-      "imdbID": "tt9165706",
-      "tmdbId": 91405,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/bh8xg3j9lG0oaNd76Xrad03hqoP.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt9165706/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Gordon%20Ramsay%3A%20Uncharted"
-    },
-    {
-      "rank": 47,
       "title": "Boiling Point",
       "year": "2023",
       "imdbRating": 7.7,
@@ -3835,6 +3814,26 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/5W6z0r3CsN4P5Ra7AWCLQtCU7D8.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt22889176/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Boiling%20Point"
+    },
+    {
+      "rank": 47,
+      "title": "Gordon Ramsay: Uncharted",
+      "year": "2019",
+      "imdbRating": 7.7,
+      "imdbVotes": 2011,
+      "genres": [
+        "Documentary"
+      ],
+      "cast": [
+        "Gordon Ramsay"
+      ],
+      "directors": [],
+      "creators": [],
+      "imdbID": "tt9165706",
+      "tmdbId": 91405,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/bh8xg3j9lG0oaNd76Xrad03hqoP.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt9165706/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Gordon%20Ramsay%3A%20Uncharted"
     },
     {
       "rank": 48,
