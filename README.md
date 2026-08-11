@@ -1,6 +1,6 @@
 # SBS Top Rated
 
-A small static frontend showing the **top 20 movies** and **top 20 TV shows** on
+A small static frontend showing the **top 100 movies** and **top 100 TV shows** on
 [SBS On Demand](https://www.sbs.com.au/ondemand/), ranked by **IMDb rating**.
 
 ## How it works
