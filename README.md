@@ -106,7 +106,7 @@ vercel --prod
 
 ## Privacy
 
-The site uses **Google Analytics 4** (`G-3T4X6ZQ31E`) to measure visitor traffic — page views,
+The site uses **Google Analytics 4** to measure visitor traffic — page views,
 approximate location, device/browser, and referral source. It is **consent-gated**:
 
 - On first visit a cookie banner is shown and **no analytics script loads** — zero cookies set.
