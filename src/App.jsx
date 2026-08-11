@@ -1,4 +1,5 @@
 import data from "./data.json";
+import CookieConsent from "./CookieConsent.jsx";
 
 function formatGenerated(iso) {
   if (!iso) return null;
@@ -104,6 +105,7 @@ export default function App() {
         <List heading={`Top ${data.movies.length} Movies`} items={data.movies} />
         <List heading={`Top ${data.tv.length} TV Shows`} items={data.tv} />
       </div>
+      <CookieConsent />
     </main>
   );
 }
