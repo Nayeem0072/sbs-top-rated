@@ -105,6 +105,16 @@ export default function App() {
         <List heading={`Top ${data.movies.length} Movies`} items={data.movies} />
         <List heading={`Top ${data.tv.length} TV Shows`} items={data.tv} />
       </div>
+      <footer className="footer">
+        <p>Ratings from IMDb via OMDb · catalogue and credits via TMDB.</p>
+        <p>This product uses the TMDB API but is not endorsed or certified by TMDB.</p>
+        <p className="privacy">
+          <strong>Privacy:</strong> this site uses Google Analytics to measure visitor traffic
+          (page views, approximate location, device and referral source). Analytics cookies are
+          set <em>only</em> if you click Accept — decline and nothing is tracked. Your choice is
+          stored locally in your browser; clear your site data to be asked again.
+        </p>
+      </footer>
       <CookieConsent />
     </main>
   );

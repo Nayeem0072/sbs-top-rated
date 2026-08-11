@@ -104,6 +104,22 @@ npm i -g vercel
 vercel --prod
 ```
 
+## Privacy
+
+The site uses **Google Analytics 4** (`G-3T4X6ZQ31E`) to measure visitor traffic — page views,
+approximate location, device/browser, and referral source. It is **consent-gated**:
+
+- On first visit a cookie banner is shown and **no analytics script loads** — zero cookies set.
+- Analytics loads only after the visitor clicks **Accept**. Clicking **Decline** means nothing is
+  ever loaded or tracked.
+- The choice is stored in `localStorage` (`cookie-consent`), so returning visitors aren't asked
+  again; clearing site data resets it.
+
+The gtag snippet is injected at runtime by `src/CookieConsent.jsx` / `src/analytics.js` — it is
+deliberately **not** hard-coded in `index.html`, so tracking cannot fire before consent. The
+Measurement ID is not a secret (it's visible client-side regardless), so it lives in the bundle.
+A short privacy note and TMDB attribution appear in the site footer.
+
 ## Notes
 
 - **OMDb daily limit:** the free OMDb tier allows ~1,000 lookups/day. A full top-100 run uses a
