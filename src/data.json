@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T15:09:07.212Z",
+  "generatedAt": "2026-08-17T15:12:55.906Z",
   "movies": [
     {
       "rank": 1,
@@ -199,8 +199,8 @@
         "Nasser Adra"
       ],
       "directors": [
-        "Basel Adra",
-        "Hamdan Ballal"
+        "Rachel Szor",
+        "Yuval Abraham"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -1017,8 +1017,8 @@
         "Marius Goring"
       ],
       "directors": [
-        "Emeric Pressburger",
-        "Michael Powell"
+        "Michael Powell",
+        "Emeric Pressburger"
       ],
       "creators": [],
       "imdbID": "tt0038733",
@@ -2241,31 +2241,6 @@
     },
     {
       "rank": 86,
-      "title": "Blind Chance",
-      "year": "1987",
-      "imdbRating": 7.7,
-      "imdbVotes": 11524,
-      "genres": [
-        "Drama"
-      ],
-      "cast": [
-        "Bogusław Linda",
-        "Tadeusz Łomnicki",
-        "Zbigniew Zapasiewicz",
-        "Bogusława Pawelec"
-      ],
-      "directors": [
-        "Krzysztof Kieślowski"
-      ],
-      "creators": [],
-      "imdbID": "tt0084549",
-      "tmdbId": 127,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/gx84VmJllqvXF3JEqcEdsxBEcbF.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt0084549/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Blind%20Chance"
-    },
-    {
-      "rank": 87,
       "title": "Kung Fu Hustle",
       "year": "2004",
       "imdbRating": 7.7,
@@ -2290,6 +2265,31 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt0373074/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Kung%20Fu%20Hustle"
+    },
+    {
+      "rank": 87,
+      "title": "Blind Chance",
+      "year": "1987",
+      "imdbRating": 7.7,
+      "imdbVotes": 11524,
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        "Bogusław Linda",
+        "Tadeusz Łomnicki",
+        "Zbigniew Zapasiewicz",
+        "Bogusława Pawelec"
+      ],
+      "directors": [
+        "Krzysztof Kieślowski"
+      ],
+      "creators": [],
+      "imdbID": "tt0084549",
+      "tmdbId": 127,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/gx84VmJllqvXF3JEqcEdsxBEcbF.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt0084549/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search/Blind%20Chance"
     },
     {
       "rank": 88,
@@ -2462,8 +2462,8 @@
         "Scott Hogsett"
       ],
       "directors": [
-        "Henry Alex Rubin",
-        "Dana Adam Shapiro"
+        "Dana Adam Shapiro",
+        "Henry Alex Rubin"
       ],
       "creators": [],
       "imdbID": "tt0436613",
@@ -4285,7 +4285,6 @@
       "cast": [
         "Suranne Jones",
         "Rose Leslie",
-        "Romola Garai",
         "Gary Lewis"
       ],
       "directors": [],
