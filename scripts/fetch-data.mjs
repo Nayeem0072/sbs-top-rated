@@ -236,7 +236,7 @@ async function buildList(kind, providerId, minVotes) {
         tmdbId,
         posterUrl: c.poster_path ? `${IMG_BASE}${c.poster_path}` : null,
         imdbUrl: `https://www.imdb.com/title/${imdbID}/`,
-        sbsSearchUrl: `https://www.sbs.com.au/ondemand/search/${encodeURIComponent(title || "")}`,
+        sbsSearchUrl: `https://www.sbs.com.au/ondemand/search?query=${encodeURIComponent(title || "")}`,
       };
     } catch (err) {
       console.warn(`  ! skipped "${title}" (${tmdbId}): ${err.message}`);
