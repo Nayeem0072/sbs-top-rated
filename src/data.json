@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:21:26.899Z",
+  "generatedAt": "2026-08-21T15:20:19.783Z",
   "movies": [
     {
       "rank": 1,
@@ -561,8 +561,8 @@
         "Robert Helpmann"
       ],
       "directors": [
-        "Michael Powell",
-        "Emeric Pressburger"
+        "Emeric Pressburger",
+        "Michael Powell"
       ],
       "creators": [],
       "imdbID": "tt0040725",
@@ -599,32 +599,6 @@
     },
     {
       "rank": 24,
-      "title": "The Third Man",
-      "year": "1949",
-      "imdbRating": 8.1,
-      "imdbVotes": 193556,
-      "genres": [
-        "Thriller",
-        "Mystery"
-      ],
-      "cast": [
-        "Joseph Cotten",
-        "Alida Valli",
-        "Trevor Howard",
-        "Orson Welles"
-      ],
-      "directors": [
-        "Carol Reed"
-      ],
-      "creators": [],
-      "imdbID": "tt0041959",
-      "tmdbId": 1092,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt0041959/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Third%20Man"
-    },
-    {
-      "rank": 25,
       "title": "Gone Girl",
       "year": "2014",
       "imdbRating": 8.1,
@@ -649,6 +623,32 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt2267998/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Gone%20Girl"
+    },
+    {
+      "rank": 25,
+      "title": "The Third Man",
+      "year": "1949",
+      "imdbRating": 8.1,
+      "imdbVotes": 193556,
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "cast": [
+        "Joseph Cotten",
+        "Alida Valli",
+        "Trevor Howard",
+        "Orson Welles"
+      ],
+      "directors": [
+        "Carol Reed"
+      ],
+      "creators": [],
+      "imdbID": "tt0041959",
+      "tmdbId": 1092,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt0041959/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Third%20Man"
     },
     {
       "rank": 26,
@@ -1179,8 +1179,8 @@
         "Roland Culver"
       ],
       "directors": [
-        "Michael Powell",
-        "Emeric Pressburger"
+        "Emeric Pressburger",
+        "Michael Powell"
       ],
       "creators": [],
       "imdbID": "tt0036112",
@@ -1304,7 +1304,7 @@
       "genres": [
         "Romance",
         "Mystery",
-        "Drama"
+        "Thriller"
       ],
       "cast": [
         "Cary Grant",
@@ -1462,7 +1462,7 @@
       ],
       "cast": [
         "Chow Yun-Fat",
-        "楊紫瓊",
+        "Michelle Yeoh",
         "Zhang Ziyi",
         "Chang Chen"
       ],
