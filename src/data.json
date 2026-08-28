@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T00:07:28.257Z",
+  "generatedAt": "2026-08-28T23:44:07.732Z",
   "movies": [
     {
       "rank": 1,
@@ -1070,8 +1070,8 @@
         "Marius Goring"
       ],
       "directors": [
-        "Michael Powell",
-        "Emeric Pressburger"
+        "Emeric Pressburger",
+        "Michael Powell"
       ],
       "creators": [],
       "imdbID": "tt0038733",
@@ -1205,8 +1205,8 @@
         "Roland Culver"
       ],
       "directors": [
-        "Michael Powell",
-        "Emeric Pressburger"
+        "Emeric Pressburger",
+        "Michael Powell"
       ],
       "creators": [],
       "imdbID": "tt0036112",
@@ -2541,8 +2541,8 @@
         "Scott Hogsett"
       ],
       "directors": [
-        "Henry Alex Rubin",
-        "Dana Adam Shapiro"
+        "Dana Adam Shapiro",
+        "Henry Alex Rubin"
       ],
       "creators": [],
       "imdbID": "tt0436613",
