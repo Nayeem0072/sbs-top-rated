@@ -1,3 +1,4 @@
+import { useState } from "react";
 import data from "./data.json";
 import CookieConsent from "./CookieConsent.jsx";
 
@@ -71,9 +72,14 @@ function Row({ item }) {
   );
 }
 
-function List({ heading, items }) {
+function List({ id, heading, items, active }) {
   return (
-    <section className="list">
+    <section
+      id={`panel-${id}`}
+      className={`list${active ? "" : " list--inactive"}`}
+      role="tabpanel"
+      aria-labelledby={`tab-${id}`}
+    >
       <h2>{heading}</h2>
       {items.length === 0 ? (
         <p className="empty">
@@ -90,8 +96,24 @@ function List({ heading, items }) {
   );
 }
 
+const TABS = [
+  { id: "movies", label: "Movies" },
+  { id: "tv", label: "TV Shows" },
+];
+
 export default function App() {
   const generated = formatGenerated(data.generatedAt);
+  // Both lists stay mounted; on narrow screens CSS shows only the active one so
+  // you can jump straight to TV without scrolling past every movie.
+  const [tab, setTab] = useState("movies");
+
+  function selectTab(id) {
+    if (id === tab) return;
+    setTab(id);
+    // Both panels share the page flow, so keep the scroll position from
+    // carrying over into the middle of the list you just switched to.
+    window.scrollTo({ top: 0 });
+  }
   return (
     <main className="app">
       <header className="header">
@@ -101,9 +123,36 @@ export default function App() {
           {generated ? ` Updated ${generated}.` : " Not yet generated."}
         </p>
       </header>
+      <div className="tabs" role="tablist" aria-label="Category">
+        {TABS.map(({ id, label }) => (
+          <button
+            key={id}
+            id={`tab-${id}`}
+            className={`tab${tab === id ? " tab--active" : ""}`}
+            type="button"
+            role="tab"
+            aria-selected={tab === id}
+            aria-controls={`panel-${id}`}
+            onClick={() => selectTab(id)}
+          >
+            {label}
+            <span className="tab-count">{data[id].length}</span>
+          </button>
+        ))}
+      </div>
       <div className="columns">
-        <List heading={`Top ${data.movies.length} Movies`} items={data.movies} />
-        <List heading={`Top ${data.tv.length} TV Shows`} items={data.tv} />
+        <List
+          id="movies"
+          heading={`Top ${data.movies.length} Movies`}
+          items={data.movies}
+          active={tab === "movies"}
+        />
+        <List
+          id="tv"
+          heading={`Top ${data.tv.length} TV Shows`}
+          items={data.tv}
+          active={tab === "tv"}
+        />
       </div>
       <footer className="footer">
         <p>Ratings from IMDb via OMDb · catalogue and credits via TMDB.</p>
