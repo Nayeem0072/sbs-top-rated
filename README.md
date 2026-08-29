@@ -128,5 +128,17 @@ A short privacy note and TMDB attribution appear in the site footer.
   Re-run after the quota resets to fill the rest, or use a paid OMDb key ($1/mo, 100k/day).
 - TMDB's SBS catalog (via JustWatch) is generally accurate for AU but may slightly lag
   SBS's live catalog.
+- **No expiry dates:** SBS titles leave the catalogue on a set date, but neither of our two
+  sources can tell us when. TMDB's watch-provider endpoints return only who currently carries a
+  title (`provider_id`, `provider_name`, `logo_path`, `display_priority`, plus a JustWatch link)
+  — there is no availability window or "leaving on" date. OMDb has no streaming-availability
+  data at all; it is IMDb metadata only. So expiry can't be added without a third source. The
+  most promising one is SBS's own catalogue API (`https://www.sbs.com.au/api/v3/video_search`),
+  whose entries carry `offer.availabilityEnds` — free and authoritative, but it would need fuzzy
+  title+year matching back onto our TMDB-derived list (SBS uses its own IDs), per-episode dates
+  would have to be collapsed to one date per series, and it may be geo-fenced to AU, which the
+  US-based GitHub Actions runner would trip over. Paid alternatives such as Movie of the
+  Night's Streaming Availability API expose `expiresOn` and match on IMDb id, avoiding the fuzzy
+  join, but add a third API key and unconfirmed SBS coverage.
 - The provider IDs for SBS On Demand are resolved at runtime from TMDB's watch-providers
   endpoint (they can differ for movies vs TV), and logged when you run `npm run fetch`.
