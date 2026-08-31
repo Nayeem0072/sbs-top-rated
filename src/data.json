@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T18:13:01.656Z",
+  "generatedAt": "2026-08-31T20:25:44.744Z",
   "movies": [
     {
       "rank": 1,
@@ -588,8 +588,8 @@
         "Robert Helpmann"
       ],
       "directors": [
-        "Michael Powell",
-        "Emeric Pressburger"
+        "Emeric Pressburger",
+        "Michael Powell"
       ],
       "creators": [],
       "imdbID": "tt0040725",
@@ -1070,8 +1070,8 @@
         "Marius Goring"
       ],
       "directors": [
-        "Emeric Pressburger",
-        "Michael Powell"
+        "Michael Powell",
+        "Emeric Pressburger"
       ],
       "creators": [],
       "imdbID": "tt0038733",
@@ -2764,8 +2764,8 @@
       ],
       "cast": [
         "Richard Belzer",
-        "Peter Gerety",
         "Giancarlo Esposito",
+        "Peter Gerety",
         "Clark Johnson"
       ],
       "directors": [],
@@ -4549,7 +4549,7 @@
       ],
       "imdbID": "tt32056314",
       "tmdbId": 250996,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/4ojU5iNNO1uXHkhxuGwPLaJgIRK.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w185/1zWFtTus8nUXNcAAgCxaZhAe1oq.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt32056314/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Kabul"
     },
