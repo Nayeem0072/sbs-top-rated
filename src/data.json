@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:09:01.505Z",
+  "generatedAt": "2026-09-04T17:51:36.026Z",
   "movies": [
     {
       "rank": 1,
@@ -253,7 +253,7 @@
         "Nasser Adra"
       ],
       "directors": [
-        "Rachel Szor",
+        "Basel Adra",
         "Hamdan Ballal"
       ],
       "creators": [],
@@ -963,8 +963,8 @@
         "Roland Culver"
       ],
       "directors": [
-        "Michael Powell",
-        "Emeric Pressburger"
+        "Emeric Pressburger",
+        "Michael Powell"
       ],
       "creators": [],
       "imdbID": "tt0036112",
@@ -2300,8 +2300,8 @@
         "Scott Hogsett"
       ],
       "directors": [
-        "Henry Alex Rubin",
-        "Dana Adam Shapiro"
+        "Dana Adam Shapiro",
+        "Henry Alex Rubin"
       ],
       "creators": [],
       "imdbID": "tt0436613",
@@ -2537,8 +2537,8 @@
         "Cori Gonzalez-Macuer"
       ],
       "directors": [
-        "Jemaine Clement",
-        "Taika Waititi"
+        "Taika Waititi",
+        "Jemaine Clement"
       ],
       "creators": [],
       "imdbID": "tt3416742",
