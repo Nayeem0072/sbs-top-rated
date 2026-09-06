@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T16:58:30.828Z",
+  "generatedAt": "2026-09-06T17:22:43.456Z",
   "movies": [
     {
       "rank": 1,
@@ -253,8 +253,8 @@
         "Nasser Adra"
       ],
       "directors": [
-        "Basel Adra",
-        "Hamdan Ballal"
+        "Rachel Szor",
+        "Yuval Abraham"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -754,7 +754,7 @@
       "creators": [],
       "imdbID": "tt0051808",
       "tmdbId": 1059,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/olO4vMPKNIJQxhJh54TPQFwKpad.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w185/uQHej0cFJHwSuaENizIZpYtsuNa.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt0051808/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Hidden%20Fortress"
     },
@@ -2300,8 +2300,8 @@
         "Scott Hogsett"
       ],
       "directors": [
-        "Henry Alex Rubin",
-        "Dana Adam Shapiro"
+        "Dana Adam Shapiro",
+        "Henry Alex Rubin"
       ],
       "creators": [],
       "imdbID": "tt0436613",
@@ -2537,8 +2537,8 @@
         "Cori Gonzalez-Macuer"
       ],
       "directors": [
-        "Taika Waititi",
-        "Jemaine Clement"
+        "Jemaine Clement",
+        "Taika Waititi"
       ],
       "creators": [],
       "imdbID": "tt3416742",
@@ -4628,29 +4628,6 @@
     },
     {
       "rank": 79,
-      "title": "The Change",
-      "year": "2023",
-      "imdbRating": 7.3,
-      "imdbVotes": 1222,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "cast": [
-        "Bridget Christie"
-      ],
-      "directors": [],
-      "creators": [
-        "Bridget Christie"
-      ],
-      "imdbID": "tt26115810",
-      "tmdbId": 228241,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/1rd6kXozxwfBN6pJ2L5AD00Ag4c.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt26115810/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Change"
-    },
-    {
-      "rank": 80,
       "title": "Kabul",
       "year": "2025",
       "imdbRating": 7.3,
@@ -4675,6 +4652,29 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/1zWFtTus8nUXNcAAgCxaZhAe1oq.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt32056314/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Kabul"
+    },
+    {
+      "rank": 80,
+      "title": "The Change",
+      "year": "2023",
+      "imdbRating": 7.3,
+      "imdbVotes": 1222,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "Bridget Christie"
+      ],
+      "directors": [],
+      "creators": [
+        "Bridget Christie"
+      ],
+      "imdbID": "tt26115810",
+      "tmdbId": 228241,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/1rd6kXozxwfBN6pJ2L5AD00Ag4c.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt26115810/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Change"
     },
     {
       "rank": 81,
