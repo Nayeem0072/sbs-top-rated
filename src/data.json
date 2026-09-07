@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T17:22:43.456Z",
+  "generatedAt": "2026-09-07T18:53:53.382Z",
   "movies": [
     {
       "rank": 1,
@@ -253,8 +253,8 @@
         "Nasser Adra"
       ],
       "directors": [
-        "Rachel Szor",
-        "Yuval Abraham"
+        "Basel Adra",
+        "Hamdan Ballal"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -963,8 +963,8 @@
         "Roland Culver"
       ],
       "directors": [
-        "Michael Powell",
-        "Emeric Pressburger"
+        "Emeric Pressburger",
+        "Michael Powell"
       ],
       "creators": [],
       "imdbID": "tt0036112",
@@ -2054,32 +2054,6 @@
     },
     {
       "rank": 79,
-      "title": "Black Narcissus",
-      "year": "1947",
-      "imdbRating": 7.7,
-      "imdbVotes": 29942,
-      "genres": [
-        "Drama"
-      ],
-      "cast": [
-        "Deborah Kerr",
-        "Sabu",
-        "David Farrar",
-        "Flora Robson"
-      ],
-      "directors": [
-        "Emeric Pressburger",
-        "Michael Powell"
-      ],
-      "creators": [],
-      "imdbID": "tt0039192",
-      "tmdbId": 16391,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/jSbFWWbkUq5N5ikewJHNATcWnxS.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt0039192/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Black%20Narcissus"
-    },
-    {
-      "rank": 80,
       "title": "Blind Chance",
       "year": "1987",
       "imdbRating": 7.7,
@@ -2104,7 +2078,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Blind%20Chance"
     },
     {
-      "rank": 81,
+      "rank": 80,
       "title": "Days of Heaven",
       "year": "1978",
       "imdbRating": 7.7,
@@ -2130,7 +2104,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Days%20of%20Heaven"
     },
     {
-      "rank": 82,
+      "rank": 81,
       "title": "The Quiet Girl",
       "year": "2022",
       "imdbRating": 7.7,
@@ -2155,7 +2129,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Quiet%20Girl"
     },
     {
-      "rank": 83,
+      "rank": 82,
       "title": "The Lady Vanishes",
       "year": "1938",
       "imdbRating": 7.7,
@@ -2181,7 +2155,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Lady%20Vanishes"
     },
     {
-      "rank": 84,
+      "rank": 83,
       "title": "Adaptation.",
       "year": "2002",
       "imdbRating": 7.7,
@@ -2208,7 +2182,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Adaptation."
     },
     {
-      "rank": 85,
+      "rank": 84,
       "title": "Stroszek",
       "year": "1977",
       "imdbRating": 7.7,
@@ -2233,7 +2207,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Stroszek"
     },
     {
-      "rank": 86,
+      "rank": 85,
       "title": "The Caine Mutiny",
       "year": "1954",
       "imdbRating": 7.7,
@@ -2259,7 +2233,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Caine%20Mutiny"
     },
     {
-      "rank": 87,
+      "rank": 86,
       "title": "The Tunnel",
       "year": "2001",
       "imdbRating": 7.7,
@@ -2285,7 +2259,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Tunnel"
     },
     {
-      "rank": 88,
+      "rank": 87,
       "title": "Murderball",
       "year": "2005",
       "imdbRating": 7.7,
@@ -2311,7 +2285,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Murderball"
     },
     {
-      "rank": 89,
+      "rank": 88,
       "title": "Oye Lucky! Lucky Oye!",
       "year": "2008",
       "imdbRating": 7.7,
@@ -2337,7 +2311,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Oye%20Lucky!%20Lucky%20Oye!"
     },
     {
-      "rank": 90,
+      "rank": 89,
       "title": "Robot Dreams",
       "year": "2023",
       "imdbRating": 7.6,
@@ -2364,7 +2338,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Robot%20Dreams"
     },
     {
-      "rank": 91,
+      "rank": 90,
       "title": "Io Capitano",
       "year": "2023",
       "imdbRating": 7.6,
@@ -2390,7 +2364,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Io%20Capitano"
     },
     {
-      "rank": 92,
+      "rank": 91,
       "title": "The Whale",
       "year": "2022",
       "imdbRating": 7.6,
@@ -2415,7 +2389,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Whale"
     },
     {
-      "rank": 93,
+      "rank": 92,
       "title": "Aftersun",
       "year": "2022",
       "imdbRating": 7.6,
@@ -2440,7 +2414,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Aftersun"
     },
     {
-      "rank": 94,
+      "rank": 93,
       "title": "One Cut of the Dead",
       "year": "2017",
       "imdbRating": 7.6,
@@ -2467,7 +2441,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=One%20Cut%20of%20the%20Dead"
     },
     {
-      "rank": 95,
+      "rank": 94,
       "title": "The Little Prince",
       "year": "2015",
       "imdbRating": 7.6,
@@ -2494,7 +2468,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Little%20Prince"
     },
     {
-      "rank": 96,
+      "rank": 95,
       "title": "The Fifth Element",
       "year": "1997",
       "imdbRating": 7.6,
@@ -2521,7 +2495,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Fifth%20Element"
     },
     {
-      "rank": 97,
+      "rank": 96,
       "title": "What We Do in the Shadows",
       "year": "2014",
       "imdbRating": 7.6,
@@ -2548,7 +2522,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=What%20We%20Do%20in%20the%20Shadows"
     },
     {
-      "rank": 98,
+      "rank": 97,
       "title": "Dark Waters",
       "year": "2019",
       "imdbRating": 7.6,
@@ -2574,7 +2548,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Dark%20Waters"
     },
     {
-      "rank": 99,
+      "rank": 98,
       "title": "The Seed of the Sacred Fig",
       "year": "2024",
       "imdbRating": 7.6,
@@ -2601,7 +2575,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Seed%20of%20the%20Sacred%20Fig"
     },
     {
-      "rank": 100,
+      "rank": 99,
       "title": "Anatomy of a Fall",
       "year": "2023",
       "imdbRating": 7.6,
@@ -2626,6 +2600,33 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt17009710/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Anatomy%20of%20a%20Fall"
+    },
+    {
+      "rank": 100,
+      "title": "The Castle of Cagliostro",
+      "year": "1979",
+      "imdbRating": 7.6,
+      "imdbVotes": 35395,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "cast": [
+        "Yasuo Yamada",
+        "Kiyoshi Kobayashi",
+        "Eiko Masuyama",
+        "Makio Inoue"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "creators": [],
+      "imdbID": "tt0079833",
+      "tmdbId": 15371,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/p7xL3WYeclgtGCLrWfBrXKdBV7d.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt0079833/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Castle%20of%20Cagliostro"
     }
   ],
   "tv": [
@@ -2633,8 +2634,8 @@
       "rank": 1,
       "title": "9/11: One Day in America",
       "year": "2021",
-      "imdbRating": 9.3,
-      "imdbVotes": 4974,
+      "imdbRating": 9.2,
+      "imdbVotes": 5863,
       "genres": [
         "Documentary"
       ],
@@ -4477,6 +4478,29 @@
     },
     {
       "rank": 73,
+      "title": "The Change",
+      "year": "2023",
+      "imdbRating": 7.4,
+      "imdbVotes": 1969,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "Bridget Christie"
+      ],
+      "directors": [],
+      "creators": [
+        "Bridget Christie"
+      ],
+      "imdbID": "tt26115810",
+      "tmdbId": 228241,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/1rd6kXozxwfBN6pJ2L5AD00Ag4c.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt26115810/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Change"
+    },
+    {
+      "rank": 74,
       "title": "The Responder",
       "year": "2022",
       "imdbRating": 7.4,
@@ -4502,7 +4526,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Responder"
     },
     {
-      "rank": 74,
+      "rank": 75,
       "title": "Showtrial",
       "year": "2021",
       "imdbRating": 7.4,
@@ -4527,7 +4551,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Showtrial"
     },
     {
-      "rank": 75,
+      "rank": 76,
       "title": "Guilt",
       "year": "2019",
       "imdbRating": 7.4,
@@ -4554,7 +4578,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Guilt"
     },
     {
-      "rank": 76,
+      "rank": 77,
       "title": "A Bloody Lucky Day",
       "year": "2023",
       "imdbRating": 7.3,
@@ -4580,7 +4604,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=A%20Bloody%20Lucky%20Day"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "title": "Litvinenko",
       "year": "2022",
       "imdbRating": 7.3,
@@ -4606,7 +4630,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Litvinenko"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "title": "Marnow Murders",
       "year": "2021",
       "imdbRating": 7.3,
@@ -4627,7 +4651,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Marnow%20Murders"
     },
     {
-      "rank": 79,
+      "rank": 80,
       "title": "Kabul",
       "year": "2025",
       "imdbRating": 7.3,
@@ -4652,29 +4676,6 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/1zWFtTus8nUXNcAAgCxaZhAe1oq.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt32056314/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Kabul"
-    },
-    {
-      "rank": 80,
-      "title": "The Change",
-      "year": "2023",
-      "imdbRating": 7.3,
-      "imdbVotes": 1222,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "cast": [
-        "Bridget Christie"
-      ],
-      "directors": [],
-      "creators": [
-        "Bridget Christie"
-      ],
-      "imdbID": "tt26115810",
-      "tmdbId": 228241,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/1rd6kXozxwfBN6pJ2L5AD00Ag4c.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt26115810/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Change"
     },
     {
       "rank": 81,
