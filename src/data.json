@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:03:20.169Z",
+  "generatedAt": "2026-09-10T17:55:26.436Z",
   "movies": [
     {
       "rank": 1,
@@ -1869,32 +1869,6 @@
     },
     {
       "rank": 72,
-      "title": "Fried Green Tomatoes",
-      "year": "1991",
-      "imdbRating": 7.7,
-      "imdbVotes": 89802,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "cast": [
-        "Kathy Bates",
-        "Jessica Tandy",
-        "Mary-Louise Parker",
-        "Mary Stuart Masterson"
-      ],
-      "directors": [
-        "Jon Avnet"
-      ],
-      "creators": [],
-      "imdbID": "tt0101921",
-      "tmdbId": 1633,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt0101921/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Fried%20Green%20Tomatoes"
-    },
-    {
-      "rank": 73,
       "title": "The Promised Land",
       "year": "2023",
       "imdbRating": 7.7,
@@ -1919,6 +1893,32 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/okVwls2laPGOsLKKhXQCEiTBwpw.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt20561198/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Promised%20Land"
+    },
+    {
+      "rank": 73,
+      "title": "Fried Green Tomatoes",
+      "year": "1991",
+      "imdbRating": 7.7,
+      "imdbVotes": 89802,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "cast": [
+        "Kathy Bates",
+        "Jessica Tandy",
+        "Mary-Louise Parker",
+        "Mary Stuart Masterson"
+      ],
+      "directors": [
+        "Jon Avnet"
+      ],
+      "creators": [],
+      "imdbID": "tt0101921",
+      "tmdbId": 1633,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt0101921/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Fried%20Green%20Tomatoes"
     },
     {
       "rank": 74,
