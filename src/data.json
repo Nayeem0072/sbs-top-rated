@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T17:57:40.463Z",
+  "generatedAt": "2026-09-12T17:28:38.245Z",
   "movies": [
     {
       "rank": 1,
@@ -253,8 +253,8 @@
         "Nasser Adra"
       ],
       "directors": [
-        "Rachel Szor",
-        "Yuval Abraham"
+        "Basel Adra",
+        "Hamdan Ballal"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -2299,8 +2299,8 @@
         "Scott Hogsett"
       ],
       "directors": [
-        "Dana Adam Shapiro",
-        "Henry Alex Rubin"
+        "Henry Alex Rubin",
+        "Dana Adam Shapiro"
       ],
       "creators": [],
       "imdbID": "tt0436613",
@@ -2510,8 +2510,8 @@
         "Cori Gonzalez-Macuer"
       ],
       "directors": [
-        "Jemaine Clement",
-        "Taika Waititi"
+        "Taika Waititi",
+        "Jemaine Clement"
       ],
       "creators": [],
       "imdbID": "tt3416742",
@@ -2639,10 +2639,9 @@
         "Documentary"
       ],
       "cast": [
-        "Joseph W. Pfeifer",
-        "Jason Thomas",
-        "Ron DiFrancesco",
-        "William Toti"
+        "Jay Jonas",
+        "Mickey Kross",
+        "Joseph Pfeifer"
       ],
       "directors": [],
       "creators": [],
@@ -3526,31 +3525,6 @@
     },
     {
       "rank": 36,
-      "title": "8 Out of 10 Cats Does Countdown",
-      "year": "2013",
-      "imdbRating": 8.2,
-      "imdbVotes": 7112,
-      "genres": [
-        "Comedy",
-        "Reality",
-        "Talk"
-      ],
-      "cast": [
-        "Jimmy Carr",
-        "Jon Richardson",
-        "Rachel Riley",
-        "Susie Dent"
-      ],
-      "directors": [],
-      "creators": [],
-      "imdbID": "tt2345459",
-      "tmdbId": 62974,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/l4LGTlpRbGqgZURwzGXCZLHRr1k.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt2345459/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=8%20Out%20of%2010%20Cats%20Does%20Countdown"
-    },
-    {
-      "rank": 37,
       "title": "Exit",
       "year": "2019",
       "imdbRating": 8.2,
@@ -3573,6 +3547,31 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/c5vHgkPa5hUnB0tqiFBJszb48d7.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt9612102/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Exit"
+    },
+    {
+      "rank": 37,
+      "title": "8 Out of 10 Cats Does Countdown",
+      "year": "2013",
+      "imdbRating": 8.2,
+      "imdbVotes": 7112,
+      "genres": [
+        "Comedy",
+        "Reality",
+        "Talk"
+      ],
+      "cast": [
+        "Jimmy Carr",
+        "Jon Richardson",
+        "Rachel Riley",
+        "Susie Dent"
+      ],
+      "directors": [],
+      "creators": [],
+      "imdbID": "tt2345459",
+      "tmdbId": 62974,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/l4LGTlpRbGqgZURwzGXCZLHRr1k.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt2345459/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=8%20Out%20of%2010%20Cats%20Does%20Countdown"
     },
     {
       "rank": 38,
