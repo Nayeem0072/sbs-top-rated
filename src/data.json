@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T18:30:25.748Z",
+  "generatedAt": "2026-09-17T18:38:41.899Z",
   "movies": [
     {
       "rank": 1,
@@ -253,7 +253,7 @@
         "Nasser Adra"
       ],
       "directors": [
-        "Rachel Szor",
+        "Basel Adra",
         "Hamdan Ballal"
       ],
       "creators": [],
@@ -563,8 +563,8 @@
         "Robert Helpmann"
       ],
       "directors": [
-        "Michael Powell",
-        "Emeric Pressburger"
+        "Emeric Pressburger",
+        "Michael Powell"
       ],
       "creators": [],
       "imdbID": "tt0040725",
@@ -1015,8 +1015,8 @@
         "Roland Culver"
       ],
       "directors": [
-        "Emeric Pressburger",
-        "Michael Powell"
+        "Michael Powell",
+        "Emeric Pressburger"
       ],
       "creators": [],
       "imdbID": "tt0036112",
@@ -2024,6 +2024,32 @@
     },
     {
       "rank": 78,
+      "title": "Good Bye, Lenin!",
+      "year": "2003",
+      "imdbRating": 7.7,
+      "imdbVotes": 158173,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "Daniel Brühl",
+        "Katrin Sass",
+        "Chulpan Khamatova",
+        "Maria Simon"
+      ],
+      "directors": [
+        "Wolfgang Becker"
+      ],
+      "creators": [],
+      "imdbID": "tt0301357",
+      "tmdbId": 338,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/uHk1oGEbnvQGLnyiiYxTslZLoog.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt0301357/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Good%20Bye%2C%20Lenin!"
+    },
+    {
+      "rank": 79,
       "title": "Zodiac",
       "year": "2007",
       "imdbRating": 7.7,
@@ -2048,32 +2074,6 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt0443706/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Zodiac"
-    },
-    {
-      "rank": 79,
-      "title": "Good Bye, Lenin!",
-      "year": "2003",
-      "imdbRating": 7.7,
-      "imdbVotes": 158173,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "cast": [
-        "Daniel Brühl",
-        "Katrin Sass",
-        "Chulpan Khamatova",
-        "Maria Simon"
-      ],
-      "directors": [
-        "Wolfgang Becker"
-      ],
-      "creators": [],
-      "imdbID": "tt0301357",
-      "tmdbId": 338,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/uHk1oGEbnvQGLnyiiYxTslZLoog.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt0301357/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Good%20Bye%2C%20Lenin!"
     },
     {
       "rank": 80,
@@ -2123,7 +2123,7 @@
       "creators": [],
       "imdbID": "tt0084549",
       "tmdbId": 127,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/gx84VmJllqvXF3JEqcEdsxBEcbF.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w185/rMnXNxBKF8TnYn9NSE2nPTFn5Fq.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt0084549/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Blind%20Chance"
     },
@@ -2587,8 +2587,8 @@
         "Cori Gonzalez-Macuer"
       ],
       "directors": [
-        "Jemaine Clement",
-        "Taika Waititi"
+        "Taika Waititi",
+        "Jemaine Clement"
       ],
       "creators": [],
       "imdbID": "tt3416742",
@@ -4446,7 +4446,6 @@
         "Crime"
       ],
       "cast": [
-        "John Reardon",
         "Mayko Nguyen",
         "Kevin Hanchard",
         "Justin Kelly"
