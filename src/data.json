@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T18:42:01.723Z",
+  "generatedAt": "2026-09-24T18:42:53.607Z",
   "movies": [
     {
       "rank": 1,
@@ -227,7 +227,7 @@
       ],
       "directors": [
         "Rachel Szor",
-        "Yuval Abraham"
+        "Hamdan Ballal"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -653,32 +653,6 @@
     },
     {
       "rank": 26,
-      "title": "Stand by Me",
-      "year": "1986",
-      "imdbRating": 8.1,
-      "imdbVotes": 480200,
-      "genres": [
-        "Drama",
-        "Adventure"
-      ],
-      "cast": [
-        "Wil Wheaton",
-        "River Phoenix",
-        "Corey Feldman",
-        "Jerry O'Connell"
-      ],
-      "directors": [
-        "Rob Reiner"
-      ],
-      "creators": [],
-      "imdbID": "tt0092005",
-      "tmdbId": 235,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt0092005/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Stand%20by%20Me"
-    },
-    {
-      "rank": 27,
       "title": "The Bridge on the River Kwai",
       "year": "1957",
       "imdbRating": 8.1,
@@ -705,7 +679,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Bridge%20on%20the%20River%20Kwai"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "A Short Film About Love",
       "year": "1988",
       "imdbRating": 8.1,
@@ -731,7 +705,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=A%20Short%20Film%20About%20Love"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "title": "Portrait of a Lady on Fire",
       "year": "2019",
       "imdbRating": 8,
@@ -757,7 +731,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Portrait%20of%20a%20Lady%20on%20Fire"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "The Hidden Fortress",
       "year": "1958",
       "imdbRating": 8,
@@ -784,7 +758,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Hidden%20Fortress"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "Sanjuro",
       "year": "1962",
       "imdbRating": 8,
@@ -811,7 +785,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Sanjuro"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "title": "Throne of Blood",
       "year": "1957",
       "imdbRating": 8,
@@ -837,7 +811,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Throne%20of%20Blood"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "title": "Limelight",
       "year": "1952",
       "imdbRating": 8,
@@ -864,7 +838,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Limelight"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "title": "Honeyland",
       "year": "2019",
       "imdbRating": 8,
@@ -890,7 +864,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Honeyland"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "title": "Le Samouraï",
       "year": "1967",
       "imdbRating": 8,
@@ -917,7 +891,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Le%20Samoura%C3%AF"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "title": "Donnie Darko",
       "year": "2001",
       "imdbRating": 8,
@@ -944,7 +918,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Donnie%20Darko"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "title": "Big Fish",
       "year": "2003",
       "imdbRating": 8,
@@ -971,7 +945,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Big%20Fish"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "title": "The Life and Death of Colonel Blimp",
       "year": "1943",
       "imdbRating": 8,
@@ -988,8 +962,8 @@
         "Roland Culver"
       ],
       "directors": [
-        "Emeric Pressburger",
-        "Michael Powell"
+        "Michael Powell",
+        "Emeric Pressburger"
       ],
       "creators": [],
       "imdbID": "tt0036112",
@@ -999,7 +973,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Life%20and%20Death%20of%20Colonel%20Blimp"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "title": "How to Make Millions Before Grandma Dies",
       "year": "2024",
       "imdbRating": 7.9,
@@ -1024,7 +998,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=How%20to%20Make%20Millions%20Before%20Grandma%20Dies"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "A Taxi Driver",
       "year": "2017",
       "imdbRating": 7.9,
@@ -1051,7 +1025,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=A%20Taxi%20Driver"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "Perfect Days",
       "year": "2023",
       "imdbRating": 7.9,
@@ -1076,7 +1050,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Perfect%20Days"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "Wings of Desire",
       "year": "1987",
       "imdbRating": 7.9,
@@ -1103,7 +1077,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Wings%20of%20Desire"
     },
     {
-      "rank": 43,
+      "rank": 42,
       "title": "Kwaidan",
       "year": "1965",
       "imdbRating": 7.9,
@@ -1130,7 +1104,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Kwaidan"
     },
     {
-      "rank": 44,
+      "rank": 43,
       "title": "Notorious",
       "year": "1946",
       "imdbRating": 7.9,
@@ -1157,7 +1131,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Notorious"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "The Conformist",
       "year": "1971",
       "imdbRating": 7.9,
@@ -1182,7 +1156,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Conformist"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "A Short Film About Killing",
       "year": "1988",
       "imdbRating": 7.9,
@@ -1208,7 +1182,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=A%20Short%20Film%20About%20Killing"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "title": "Fitzcarraldo",
       "year": "1982",
       "imdbRating": 7.9,
@@ -1234,7 +1208,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Fitzcarraldo"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "title": "When We Were Kings",
       "year": "1996",
       "imdbRating": 7.9,
@@ -1259,7 +1233,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=When%20We%20Were%20Kings"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "title": "Burden of Dreams",
       "year": "1982",
       "imdbRating": 7.9,
@@ -1284,7 +1258,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Burden%20of%20Dreams"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "title": "Crouching Tiger, Hidden Dragon",
       "year": "2000",
       "imdbRating": 7.9,
@@ -1311,7 +1285,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Crouching%20Tiger%2C%20Hidden%20Dragon"
     },
     {
-      "rank": 51,
+      "rank": 50,
       "title": "Jab We Met",
       "year": "2007",
       "imdbRating": 7.9,
@@ -1338,7 +1312,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Jab%20We%20Met"
     },
     {
-      "rank": 52,
+      "rank": 51,
       "title": "Radical",
       "year": "2023",
       "imdbRating": 7.8,
@@ -1363,7 +1337,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Radical"
     },
     {
-      "rank": 53,
+      "rank": 52,
       "title": "Monster",
       "year": "2023",
       "imdbRating": 7.8,
@@ -1390,7 +1364,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Monster"
     },
     {
-      "rank": 54,
+      "rank": 53,
       "title": "Captain Fantastic",
       "year": "2016",
       "imdbRating": 7.8,
@@ -1416,7 +1390,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Captain%20Fantastic"
     },
     {
-      "rank": 55,
+      "rank": 54,
       "title": "Close",
       "year": "2022",
       "imdbRating": 7.8,
@@ -1441,7 +1415,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Close"
     },
     {
-      "rank": 56,
+      "rank": 55,
       "title": "Monsieur Verdoux",
       "year": "1947",
       "imdbRating": 7.8,
@@ -1468,7 +1442,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Monsieur%20Verdoux"
     },
     {
-      "rank": 57,
+      "rank": 56,
       "title": "The World's Fastest Indian",
       "year": "2005",
       "imdbRating": 7.8,
@@ -1495,7 +1469,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20World's%20Fastest%20Indian"
     },
     {
-      "rank": 58,
+      "rank": 57,
       "title": "Charade",
       "year": "1963",
       "imdbRating": 7.8,
@@ -1522,7 +1496,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Charade"
     },
     {
-      "rank": 59,
+      "rank": 58,
       "title": "Nosferatu",
       "year": "1922",
       "imdbRating": 7.8,
@@ -1548,7 +1522,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Nosferatu"
     },
     {
-      "rank": 60,
+      "rank": 59,
       "title": "Hunt for the Wilderpeople",
       "year": "2016",
       "imdbRating": 7.8,
@@ -1575,7 +1549,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Hunt%20for%20the%20Wilderpeople"
     },
     {
-      "rank": 61,
+      "rank": 60,
       "title": "Guess Who's Coming to Dinner",
       "year": "1967",
       "imdbRating": 7.8,
@@ -1601,7 +1575,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Guess%20Who's%20Coming%20to%20Dinner"
     },
     {
-      "rank": 62,
+      "rank": 61,
       "title": "Harold and Maude",
       "year": "1971",
       "imdbRating": 7.8,
@@ -1628,7 +1602,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Harold%20and%20Maude"
     },
     {
-      "rank": 63,
+      "rank": 62,
       "title": "Amy",
       "year": "2015",
       "imdbRating": 7.8,
@@ -1654,7 +1628,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Amy"
     },
     {
-      "rank": 64,
+      "rank": 63,
       "title": "A Prophet",
       "year": "2009",
       "imdbRating": 7.8,
@@ -1680,7 +1654,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=A%20Prophet"
     },
     {
-      "rank": 65,
+      "rank": 64,
       "title": "Glory",
       "year": "1989",
       "imdbRating": 7.8,
@@ -1705,6 +1679,33 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt0097441/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Glory"
+    },
+    {
+      "rank": 65,
+      "title": "Ed Wood",
+      "year": "1994",
+      "imdbRating": 7.8,
+      "imdbVotes": 191078,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "History"
+      ],
+      "cast": [
+        "Johnny Depp",
+        "Martin Landau",
+        "Sarah Jessica Parker",
+        "Patricia Arquette"
+      ],
+      "directors": [
+        "Tim Burton"
+      ],
+      "creators": [],
+      "imdbID": "tt0109707",
+      "tmdbId": 522,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/n8SrO3WbyuY2b6KazogqbQF348C.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt0109707/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Ed%20Wood"
     },
     {
       "rank": 66,
@@ -2136,9 +2137,9 @@
         "Drama"
       ],
       "cast": [
-        "Catherine Clinch",
-        "Andrew Bennett",
         "Carrie Crowley",
+        "Andrew Bennett",
+        "Catherine Clinch",
         "Michael Patric"
       ],
       "directors": [
@@ -2361,32 +2362,6 @@
     },
     {
       "rank": 91,
-      "title": "Oye Lucky! Lucky Oye!",
-      "year": "2008",
-      "imdbRating": 7.7,
-      "imdbVotes": 18339,
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "cast": [
-        "Abhay Deol",
-        "Paresh Rawal",
-        "Neetu Chandra",
-        "Manu Rishi Chadha"
-      ],
-      "directors": [
-        "Dibakar Banerjee"
-      ],
-      "creators": [],
-      "imdbID": "tt1292703",
-      "tmdbId": 15975,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/rtuw7H9ACOfs9BtRGF9okrr8yJH.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt1292703/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Oye%20Lucky!%20Lucky%20Oye!"
-    },
-    {
-      "rank": 92,
       "title": "Robot Dreams",
       "year": "2023",
       "imdbRating": 7.6,
@@ -2413,7 +2388,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Robot%20Dreams"
     },
     {
-      "rank": 93,
+      "rank": 92,
       "title": "Io Capitano",
       "year": "2023",
       "imdbRating": 7.6,
@@ -2439,7 +2414,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Io%20Capitano"
     },
     {
-      "rank": 94,
+      "rank": 93,
       "title": "The Whale",
       "year": "2022",
       "imdbRating": 7.6,
@@ -2464,7 +2439,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Whale"
     },
     {
-      "rank": 95,
+      "rank": 94,
       "title": "Aftersun",
       "year": "2022",
       "imdbRating": 7.6,
@@ -2489,7 +2464,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Aftersun"
     },
     {
-      "rank": 96,
+      "rank": 95,
       "title": "The Little Prince",
       "year": "2015",
       "imdbRating": 7.6,
@@ -2516,7 +2491,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Little%20Prince"
     },
     {
-      "rank": 97,
+      "rank": 96,
       "title": "One Cut of the Dead",
       "year": "2017",
       "imdbRating": 7.6,
@@ -2543,7 +2518,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=One%20Cut%20of%20the%20Dead"
     },
     {
-      "rank": 98,
+      "rank": 97,
       "title": "The Fifth Element",
       "year": "1997",
       "imdbRating": 7.6,
@@ -2570,7 +2545,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Fifth%20Element"
     },
     {
-      "rank": 99,
+      "rank": 98,
       "title": "What We Do in the Shadows",
       "year": "2014",
       "imdbRating": 7.6,
@@ -2597,7 +2572,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=What%20We%20Do%20in%20the%20Shadows"
     },
     {
-      "rank": 100,
+      "rank": 99,
       "title": "Dark Waters",
       "year": "2019",
       "imdbRating": 7.6,
@@ -2621,6 +2596,33 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/bzvzaHqKBSuGIIWhinTQPHvT0zf.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt9071322/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Dark%20Waters"
+    },
+    {
+      "rank": 100,
+      "title": "The Seed of the Sacred Fig",
+      "year": "2024",
+      "imdbRating": 7.6,
+      "imdbVotes": 15306,
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "cast": [
+        "Soheila Golestani",
+        "Misagh Zare",
+        "Mahsa Rostami",
+        "Setareh Maleki"
+      ],
+      "directors": [
+        "Mohammad Rasoulof"
+      ],
+      "creators": [],
+      "imdbID": "tt32178949",
+      "tmdbId": 1278263,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt32178949/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Seed%20of%20the%20Sacred%20Fig"
     }
   ],
   "tv": [
@@ -4382,29 +4384,6 @@
     },
     {
       "rank": 70,
-      "title": "Running Wild with Bear Grylls",
-      "year": "2014",
-      "imdbRating": 7.5,
-      "imdbVotes": 3128,
-      "genres": [
-        "Action & Adventure",
-        "Reality"
-      ],
-      "cast": [
-        "Bear Grylls"
-      ],
-      "directors": [],
-      "creators": [
-        "Delbert Shoopman"
-      ],
-      "imdbID": "tt3816666",
-      "tmdbId": 61120,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/Au3cmwMLwmlvqe8a611Z0KYZ0Ho.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt3816666/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Running%20Wild%20with%20Bear%20Grylls"
-    },
-    {
-      "rank": 71,
       "title": "Darkness: Those Who Kill",
       "year": "2019",
       "imdbRating": 7.5,
@@ -4427,6 +4406,29 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/5kjHlWl5oN1fEY26Q8WTmJPpBRb.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt9466596/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Darkness%3A%20Those%20Who%20Kill"
+    },
+    {
+      "rank": 71,
+      "title": "Running Wild with Bear Grylls",
+      "year": "2014",
+      "imdbRating": 7.5,
+      "imdbVotes": 3128,
+      "genres": [
+        "Action & Adventure",
+        "Reality"
+      ],
+      "cast": [
+        "Bear Grylls"
+      ],
+      "directors": [],
+      "creators": [
+        "Delbert Shoopman"
+      ],
+      "imdbID": "tt3816666",
+      "tmdbId": 61120,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/Au3cmwMLwmlvqe8a611Z0KYZ0Ho.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt3816666/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Running%20Wild%20with%20Bear%20Grylls"
     },
     {
       "rank": 72,
