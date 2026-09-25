@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T18:42:53.607Z",
+  "generatedAt": "2026-09-25T18:58:39.990Z",
   "movies": [
     {
       "rank": 1,
@@ -227,7 +227,7 @@
       ],
       "directors": [
         "Rachel Szor",
-        "Hamdan Ballal"
+        "Yuval Abraham"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -536,8 +536,8 @@
         "Robert Helpmann"
       ],
       "directors": [
-        "Michael Powell",
-        "Emeric Pressburger"
+        "Emeric Pressburger",
+        "Michael Powell"
       ],
       "creators": [],
       "imdbID": "tt0040725",
@@ -2350,8 +2350,8 @@
         "Scott Hogsett"
       ],
       "directors": [
-        "Dana Adam Shapiro",
-        "Henry Alex Rubin"
+        "Henry Alex Rubin",
+        "Dana Adam Shapiro"
       ],
       "creators": [],
       "imdbID": "tt0436613",
