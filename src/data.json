@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T18:22:11.411Z",
+  "generatedAt": "2026-10-04T18:26:32.605Z",
   "movies": [
     {
       "rank": 1,
@@ -227,7 +227,7 @@
       ],
       "directors": [
         "Rachel Szor",
-        "Hamdan Ballal"
+        "Yuval Abraham"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -2400,8 +2400,8 @@
         "Scott Hogsett"
       ],
       "directors": [
-        "Dana Adam Shapiro",
-        "Henry Alex Rubin"
+        "Henry Alex Rubin",
+        "Dana Adam Shapiro"
       ],
       "creators": [],
       "imdbID": "tt0436613",
