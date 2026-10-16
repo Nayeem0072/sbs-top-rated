@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T18:43:51.839Z",
+  "generatedAt": "2026-10-16T18:28:31.057Z",
   "movies": [
     {
       "rank": 1,
@@ -239,31 +239,6 @@
     },
     {
       "rank": 10,
-      "title": "Kaaka Muttai",
-      "year": "2015",
-      "imdbRating": 8.3,
-      "imdbVotes": 7940,
-      "genres": [
-        "Drama"
-      ],
-      "cast": [
-        "J Vignesh",
-        "Ramesh Thilaganathan",
-        "Aishwarya Rajesh",
-        "Silambarasan"
-      ],
-      "directors": [
-        "M. Manikandan"
-      ],
-      "creators": [],
-      "imdbID": "tt3973410",
-      "tmdbId": 264038,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/xa8EJVtnxq6rMPBplGuv2BAS1pl.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt3973410/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Kaaka%20Muttai"
-    },
-    {
-      "rank": 11,
       "title": "The Father",
       "year": "2020",
       "imdbRating": 8.2,
@@ -288,7 +263,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Father"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Metropolis",
       "year": "1927",
       "imdbRating": 8.2,
@@ -314,7 +289,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Metropolis"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "Yojimbo",
       "year": "1961",
       "imdbRating": 8.2,
@@ -340,7 +315,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Yojimbo"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "No Other Land",
       "year": "2024",
       "imdbRating": 8.2,
@@ -366,7 +341,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=No%20Other%20Land"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "Close-Up",
       "year": "1990",
       "imdbRating": 8.2,
@@ -392,7 +367,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Close-Up"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "title": "Kill Bill: Vol. 1",
       "year": "2003",
       "imdbRating": 8.2,
@@ -418,7 +393,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Kill%20Bill%3A%20Vol.%201"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "title": "Searching for Sugar Man",
       "year": "2012",
       "imdbRating": 8.2,
@@ -444,7 +419,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Searching%20for%20Sugar%20Man"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "42 Up",
       "year": "1999",
       "imdbRating": 8.2,
@@ -469,7 +444,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=42%20Up"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "title": "The Handmaiden",
       "year": "2016",
       "imdbRating": 8.1,
@@ -496,7 +471,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Handmaiden"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "title": "Tokyo Story",
       "year": "1953",
       "imdbRating": 8.1,
@@ -521,7 +496,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Tokyo%20Story"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "title": "Paris, Texas",
       "year": "1984",
       "imdbRating": 8.1,
@@ -546,7 +521,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Paris%2C%20Texas"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "title": "Memories of Murder",
       "year": "2003",
       "imdbRating": 8.1,
@@ -573,7 +548,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Memories%20of%20Murder"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "title": "Hachi: A Dog's Tale",
       "year": "2009",
       "imdbRating": 8.1,
@@ -599,7 +574,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Hachi%3A%20A%20Dog's%20Tale"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "title": "The Third Man",
       "year": "1949",
       "imdbRating": 8.1,
@@ -625,7 +600,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Third%20Man"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "Stand by Me",
       "year": "1986",
       "imdbRating": 8.1,
@@ -651,7 +626,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Stand%20by%20Me"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "The Bridge on the River Kwai",
       "year": "1957",
       "imdbRating": 8.1,
@@ -678,7 +653,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Bridge%20on%20the%20River%20Kwai"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "title": "A Short Film About Love",
       "year": "1988",
       "imdbRating": 8.1,
@@ -704,7 +679,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=A%20Short%20Film%20About%20Love"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "Portrait of a Lady on Fire",
       "year": "2019",
       "imdbRating": 8,
@@ -730,7 +705,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Portrait%20of%20a%20Lady%20on%20Fire"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "title": "The Hidden Fortress",
       "year": "1958",
       "imdbRating": 8,
@@ -757,7 +732,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Hidden%20Fortress"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "Warriors of the Wind",
       "year": "1984",
       "imdbRating": 8,
@@ -784,7 +759,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Warriors%20of%20the%20Wind"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "Sanjuro",
       "year": "1962",
       "imdbRating": 8,
@@ -811,7 +786,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Sanjuro"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "title": "Throne of Blood",
       "year": "1957",
       "imdbRating": 8,
@@ -837,7 +812,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Throne%20of%20Blood"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "title": "Limelight",
       "year": "1952",
       "imdbRating": 8,
@@ -864,7 +839,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Limelight"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "title": "Kill Bill: Vol. 2",
       "year": "2004",
       "imdbRating": 8,
@@ -891,7 +866,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Kill%20Bill%3A%20Vol.%202"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "title": "Honeyland",
       "year": "2019",
       "imdbRating": 8,
@@ -917,7 +892,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Honeyland"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "title": "Grand Illusion",
       "year": "1937",
       "imdbRating": 8,
@@ -944,7 +919,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Grand%20Illusion"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "title": "Le Samouraï",
       "year": "1967",
       "imdbRating": 8,
@@ -971,7 +946,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Le%20Samoura%C3%AF"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "title": "Donnie Darko",
       "year": "2001",
       "imdbRating": 8,
@@ -996,6 +971,32 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt0246578/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Donnie%20Darko"
+    },
+    {
+      "rank": 38,
+      "title": "Slumdog Millionaire",
+      "year": "2008",
+      "imdbRating": 8,
+      "imdbVotes": 916522,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "cast": [
+        "Dev Patel",
+        "Freida Pinto",
+        "Madhur Mittal",
+        "Anil Kapoor"
+      ],
+      "directors": [
+        "Danny Boyle"
+      ],
+      "creators": [],
+      "imdbID": "tt1010048",
+      "tmdbId": 12405,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt1010048/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Slumdog%20Millionaire"
     },
     {
       "rank": 39,
@@ -1067,8 +1068,8 @@
         "Roland Culver"
       ],
       "directors": [
-        "Emeric Pressburger",
-        "Michael Powell"
+        "Michael Powell",
+        "Emeric Pressburger"
       ],
       "creators": [],
       "imdbID": "tt0036112",
@@ -1971,6 +1972,32 @@
     },
     {
       "rank": 76,
+      "title": "Nanban",
+      "year": "2012",
+      "imdbRating": 7.8,
+      "imdbVotes": 17184,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "Vijay",
+        "Jiiva",
+        "Srikanth",
+        "Ileana D'Cruz"
+      ],
+      "directors": [
+        "Shankar"
+      ],
+      "creators": [],
+      "imdbID": "tt2180477",
+      "tmdbId": 69537,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/dmhPnvYQVtx4xS1dkA9trCpQXvY.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt2180477/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Nanban"
+    },
+    {
+      "rank": 77,
       "title": "There's Still Tomorrow",
       "year": "2023",
       "imdbRating": 7.7,
@@ -1997,7 +2024,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=There's%20Still%20Tomorrow"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "title": "The Boy in the Striped Pyjamas",
       "year": "2008",
       "imdbRating": 7.7,
@@ -2024,7 +2051,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Boy%20in%20the%20Striped%20Pyjamas"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "title": "Porco Rosso",
       "year": "1992",
       "imdbRating": 7.7,
@@ -2051,7 +2078,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Porco%20Rosso"
     },
     {
-      "rank": 79,
+      "rank": 80,
       "title": "So Long, My Son",
       "year": "2019",
       "imdbRating": 7.7,
@@ -2076,7 +2103,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=So%20Long%2C%20My%20Son"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "title": "The World's Fastest Indian",
       "year": "2005",
       "imdbRating": 7.7,
@@ -2103,7 +2130,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20World's%20Fastest%20Indian"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "title": "The Promised Land",
       "year": "2023",
       "imdbRating": 7.7,
@@ -2130,7 +2157,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Promised%20Land"
     },
     {
-      "rank": 82,
+      "rank": 83,
       "title": "Fried Green Tomatoes",
       "year": "1991",
       "imdbRating": 7.7,
@@ -2156,7 +2183,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Fried%20Green%20Tomatoes"
     },
     {
-      "rank": 83,
+      "rank": 84,
       "title": "Sacco & Vanzetti",
       "year": "1971",
       "imdbRating": 7.7,
@@ -2182,7 +2209,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Sacco%20%26%20Vanzetti"
     },
     {
-      "rank": 84,
+      "rank": 85,
       "title": "Gattaca",
       "year": "1997",
       "imdbRating": 7.7,
@@ -2208,7 +2235,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Gattaca"
     },
     {
-      "rank": 85,
+      "rank": 86,
       "title": "Malcolm X",
       "year": "1992",
       "imdbRating": 7.7,
@@ -2234,7 +2261,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Malcolm%20X"
     },
     {
-      "rank": 86,
+      "rank": 87,
       "title": "Good Bye, Lenin!",
       "year": "2003",
       "imdbRating": 7.7,
@@ -2260,7 +2287,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Good%20Bye%2C%20Lenin!"
     },
     {
-      "rank": 87,
+      "rank": 88,
       "title": "Kung Fu Hustle",
       "year": "2004",
       "imdbRating": 7.7,
@@ -2287,7 +2314,32 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Kung%20Fu%20Hustle"
     },
     {
-      "rank": 88,
+      "rank": 89,
+      "title": "The Holy Mountain",
+      "year": "1973",
+      "imdbRating": 7.7,
+      "imdbVotes": 53414,
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        "Alejandro Jodorowsky",
+        "Horacio Salinas",
+        "Zamira Saunders",
+        "Juan Ferrara"
+      ],
+      "directors": [
+        "Alejandro Jodorowsky"
+      ],
+      "creators": [],
+      "imdbID": "tt0071615",
+      "tmdbId": 8327,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/oaOyrFD4ZyZZwjO8wc4b12XHcgZ.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt0071615/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Holy%20Mountain"
+    },
+    {
+      "rank": 90,
       "title": "Days of Heaven",
       "year": "1978",
       "imdbRating": 7.7,
@@ -2313,7 +2365,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Days%20of%20Heaven"
     },
     {
-      "rank": 89,
+      "rank": 91,
       "title": "Blind Chance",
       "year": "1987",
       "imdbRating": 7.7,
@@ -2338,7 +2390,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Blind%20Chance"
     },
     {
-      "rank": 90,
+      "rank": 92,
       "title": "The Quiet Girl",
       "year": "2022",
       "imdbRating": 7.7,
@@ -2363,7 +2415,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Quiet%20Girl"
     },
     {
-      "rank": 91,
+      "rank": 93,
       "title": "The Lady Vanishes",
       "year": "1938",
       "imdbRating": 7.7,
@@ -2389,7 +2441,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Lady%20Vanishes"
     },
     {
-      "rank": 92,
+      "rank": 94,
       "title": "Stroszek",
       "year": "1977",
       "imdbRating": 7.7,
@@ -2414,7 +2466,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Stroszek"
     },
     {
-      "rank": 93,
+      "rank": 95,
       "title": "Babette's Feast",
       "year": "1987",
       "imdbRating": 7.7,
@@ -2441,7 +2493,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Babette's%20Feast"
     },
     {
-      "rank": 94,
+      "rank": 96,
       "title": "The Tunnel",
       "year": "2001",
       "imdbRating": 7.7,
@@ -2467,33 +2519,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Tunnel"
     },
     {
-      "rank": 95,
-      "title": "Murderball",
-      "year": "2005",
-      "imdbRating": 7.7,
-      "imdbVotes": 10847,
-      "genres": [
-        "Documentary"
-      ],
-      "cast": [
-        "Joe Bishop",
-        "Keith Cavill",
-        "Andy Cohn",
-        "Scott Hogsett"
-      ],
-      "directors": [
-        "Dana Adam Shapiro",
-        "Henry Alex Rubin"
-      ],
-      "creators": [],
-      "imdbID": "tt0436613",
-      "tmdbId": 14278,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/qxaXzZnGsHaAJpSaF72nDhhL58n.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt0436613/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Murderball"
-    },
-    {
-      "rank": 96,
+      "rank": 97,
       "title": "Robot Dreams",
       "year": "2023",
       "imdbRating": 7.6,
@@ -2520,7 +2546,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Robot%20Dreams"
     },
     {
-      "rank": 97,
+      "rank": 98,
       "title": "Io Capitano",
       "year": "2023",
       "imdbRating": 7.6,
@@ -2546,7 +2572,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Io%20Capitano"
     },
     {
-      "rank": 98,
+      "rank": 99,
       "title": "The Whale",
       "year": "2022",
       "imdbRating": 7.6,
@@ -2571,7 +2597,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Whale"
     },
     {
-      "rank": 99,
+      "rank": 100,
       "title": "Aftersun",
       "year": "2022",
       "imdbRating": 7.6,
@@ -2594,33 +2620,6 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt19770238/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Aftersun"
-    },
-    {
-      "rank": 100,
-      "title": "The Little Prince",
-      "year": "2015",
-      "imdbRating": 7.6,
-      "imdbVotes": 72489,
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Fantasy"
-      ],
-      "cast": [
-        "Riley Osborne",
-        "Mackenzie Foy",
-        "Jeff Bridges",
-        "Rachel McAdams"
-      ],
-      "directors": [
-        "Mark Osborne"
-      ],
-      "creators": [],
-      "imdbID": "tt1754656",
-      "tmdbId": 309809,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/33Oc7gTFbEZgMcNmWjuMvmEEIKv.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt1754656/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Little%20Prince"
     }
   ],
   "tv": [
@@ -2736,8 +2735,8 @@
       ],
       "cast": [
         "Richard Belzer",
-        "Peter Gerety",
         "Giancarlo Esposito",
+        "Peter Gerety",
         "Clark Johnson"
       ],
       "directors": [],
