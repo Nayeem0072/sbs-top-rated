@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:28:31.057Z",
+  "generatedAt": "2026-10-17T17:34:23.879Z",
   "movies": [
     {
       "rank": 1,
@@ -330,8 +330,8 @@
         "Nasser Adra"
       ],
       "directors": [
-        "Basel Adra",
-        "Hamdan Ballal"
+        "Rachel Szor",
+        "Yuval Abraham"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -2735,8 +2735,8 @@
       ],
       "cast": [
         "Richard Belzer",
-        "Giancarlo Esposito",
         "Peter Gerety",
+        "Giancarlo Esposito",
         "Clark Johnson"
       ],
       "directors": [],
