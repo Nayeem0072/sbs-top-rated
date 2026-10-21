@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:47:18.733Z",
+  "generatedAt": "2026-10-21T19:00:16.269Z",
   "movies": [
     {
       "rank": 1,
@@ -303,8 +303,8 @@
         "Nasser Adra"
       ],
       "directors": [
-        "Basel Adra",
-        "Hamdan Ballal"
+        "Rachel Szor",
+        "Yuval Abraham"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -1014,8 +1014,8 @@
         "Roland Culver"
       ],
       "directors": [
-        "Emeric Pressburger",
-        "Michael Powell"
+        "Michael Powell",
+        "Emeric Pressburger"
       ],
       "creators": [],
       "imdbID": "tt0036112",
@@ -2453,8 +2453,8 @@
         "Scott Hogsett"
       ],
       "directors": [
-        "Henry Alex Rubin",
-        "Dana Adam Shapiro"
+        "Dana Adam Shapiro",
+        "Henry Alex Rubin"
       ],
       "creators": [],
       "imdbID": "tt0436613",
@@ -2734,8 +2734,8 @@
       ],
       "cast": [
         "Richard Belzer",
-        "Peter Gerety",
         "Giancarlo Esposito",
+        "Peter Gerety",
         "Clark Johnson"
       ],
       "directors": [],
