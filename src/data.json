@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T18:46:10.253Z",
+  "generatedAt": "2026-10-24T17:40:48.537Z",
   "movies": [
     {
       "rank": 1,
@@ -304,7 +304,7 @@
       ],
       "directors": [
         "Rachel Szor",
-        "Hamdan Ballal"
+        "Yuval Abraham"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -914,7 +914,7 @@
       "creators": [],
       "imdbID": "tt0246578",
       "tmdbId": 141,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w185/kxrx1Jg35YhEyb7KuuDGlrkbpC7.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt0246578/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Donnie%20Darko"
     },
@@ -2193,7 +2193,7 @@
         "Stephen Chow",
         "Yuen Qiu",
         "Yuen Wah",
-        "Lam Tze-Chung"
+        "Lam Tze-chung"
       ],
       "directors": [
         "Stephen Chow"
@@ -2734,8 +2734,8 @@
       ],
       "cast": [
         "Richard Belzer",
-        "Peter Gerety",
         "Giancarlo Esposito",
+        "Peter Gerety",
         "Clark Johnson"
       ],
       "directors": [],
