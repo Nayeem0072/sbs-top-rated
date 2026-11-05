@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T20:58:19.593Z",
+  "generatedAt": "2026-11-05T21:15:36.576Z",
   "movies": [
     {
       "rank": 1,
@@ -277,7 +277,7 @@
       ],
       "directors": [
         "Rachel Szor",
-        "Yuval Abraham"
+        "Hamdan Ballal"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -350,9 +350,9 @@
       ],
       "cast": [
         "Stephen Segerman",
-        "Rodriguez",
-        "Regan Rodriguez",
-        "Eva Rodriguez"
+        "Dennis Coffey",
+        "Mike Theodore",
+        "Dan DiMaggio"
       ],
       "directors": [
         "Malik Bendjelloul"
@@ -618,7 +618,7 @@
       "creators": [],
       "imdbID": "tt8613070",
       "tmdbId": 531428,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w185/rUDuOKpkKBHxx41BScqKej72iT3.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt8613070/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Portrait%20of%20a%20Lady%20on%20Fire"
     },
@@ -2607,8 +2607,8 @@
         "Cori Gonzalez-Macuer"
       ],
       "directors": [
-        "Taika Waititi",
-        "Jemaine Clement"
+        "Jemaine Clement",
+        "Taika Waititi"
       ],
       "creators": [],
       "imdbID": "tt3416742",
