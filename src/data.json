@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T20:38:08.929Z",
+  "generatedAt": "2026-11-07T19:06:02.773Z",
   "movies": [
     {
       "rank": 1,
@@ -277,7 +277,7 @@
       ],
       "directors": [
         "Rachel Szor",
-        "Hamdan Ballal"
+        "Yuval Abraham"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -2513,6 +2513,33 @@
     },
     {
       "rank": 97,
+      "title": "Arrietty",
+      "year": "2010",
+      "imdbRating": 7.6,
+      "imdbVotes": 119441,
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Family"
+      ],
+      "cast": [
+        "Mirai Shida",
+        "Ryunosuke Kamiki",
+        "Tomokazu Miura",
+        "Keiko Takeshita"
+      ],
+      "directors": [
+        "Hiromasa Yonebayashi"
+      ],
+      "creators": [],
+      "imdbID": "tt1568921",
+      "tmdbId": 51739,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt1568921/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Arrietty"
+    },
+    {
+      "rank": 98,
       "title": "Aftersun",
       "year": "2022",
       "imdbRating": 7.6,
@@ -2537,7 +2564,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Aftersun"
     },
     {
-      "rank": 98,
+      "rank": 99,
       "title": "The Little Prince",
       "year": "2015",
       "imdbRating": 7.6,
@@ -2564,7 +2591,7 @@
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Little%20Prince"
     },
     {
-      "rank": 99,
+      "rank": 100,
       "title": "The Fifth Element",
       "year": "1997",
       "imdbRating": 7.6,
@@ -2589,33 +2616,6 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt0119116/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Fifth%20Element"
-    },
-    {
-      "rank": 100,
-      "title": "What We Do in the Shadows",
-      "year": "2014",
-      "imdbRating": 7.6,
-      "imdbVotes": 216147,
-      "genres": [
-        "Comedy",
-        "Horror"
-      ],
-      "cast": [
-        "Jemaine Clement",
-        "Taika Waititi",
-        "Jonny Brugh",
-        "Cori Gonzalez-Macuer"
-      ],
-      "directors": [
-        "Taika Waititi",
-        "Jemaine Clement"
-      ],
-      "creators": [],
-      "imdbID": "tt3416742",
-      "tmdbId": 246741,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt3416742/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=What%20We%20Do%20in%20the%20Shadows"
     }
   ],
   "tv": [
@@ -2705,8 +2705,8 @@
       ],
       "cast": [
         "Richard Belzer",
-        "Giancarlo Esposito",
         "Peter Gerety",
+        "Giancarlo Esposito",
         "Clark Johnson"
       ],
       "directors": [],
@@ -4903,26 +4903,6 @@
     },
     {
       "rank": 91,
-      "title": "The UnXplained",
-      "year": "2019",
-      "imdbRating": 7.3,
-      "imdbVotes": 2476,
-      "genres": [
-        "Documentary"
-      ],
-      "cast": [
-        "William Shatner"
-      ],
-      "directors": [],
-      "creators": [],
-      "imdbID": "tt10098498",
-      "tmdbId": 91371,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/k4jKrJ03pJPyDJgHGQU6au8gpRL.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt10098498/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20UnXplained"
-    },
-    {
-      "rank": 92,
       "title": "Crossing Lines",
       "year": "2013",
       "imdbRating": 7.3,
@@ -4948,6 +4928,26 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/ow8RQrZJUQfOeR5alsj9OAXoxic.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt2427220/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Crossing%20Lines"
+    },
+    {
+      "rank": 92,
+      "title": "The UnXplained",
+      "year": "2019",
+      "imdbRating": 7.3,
+      "imdbVotes": 2476,
+      "genres": [
+        "Documentary"
+      ],
+      "cast": [
+        "William Shatner"
+      ],
+      "directors": [],
+      "creators": [],
+      "imdbID": "tt10098498",
+      "tmdbId": 91371,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/k4jKrJ03pJPyDJgHGQU6au8gpRL.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt10098498/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20UnXplained"
     },
     {
       "rank": 93,
