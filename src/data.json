@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T19:06:02.773Z",
+  "generatedAt": "2026-11-08T19:12:59.127Z",
   "movies": [
     {
       "rank": 1,
@@ -277,7 +277,7 @@
       ],
       "directors": [
         "Rachel Szor",
-        "Yuval Abraham"
+        "Hamdan Ballal"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -959,8 +959,8 @@
         "Roland Culver"
       ],
       "directors": [
-        "Michael Powell",
-        "Emeric Pressburger"
+        "Emeric Pressburger",
+        "Michael Powell"
       ],
       "creators": [],
       "imdbID": "tt0036112",
@@ -2190,8 +2190,8 @@
         "Flora Robson"
       ],
       "directors": [
-        "Emeric Pressburger",
-        "Michael Powell"
+        "Michael Powell",
+        "Emeric Pressburger"
       ],
       "creators": [],
       "imdbID": "tt0039192",
@@ -2228,31 +2228,6 @@
     },
     {
       "rank": 86,
-      "title": "Blind Chance",
-      "year": "1987",
-      "imdbRating": 7.7,
-      "imdbVotes": 11524,
-      "genres": [
-        "Drama"
-      ],
-      "cast": [
-        "Bogusław Linda",
-        "Tadeusz Łomnicki",
-        "Zbigniew Zapasiewicz",
-        "Bogusława Pawelec"
-      ],
-      "directors": [
-        "Krzysztof Kieślowski"
-      ],
-      "creators": [],
-      "imdbID": "tt0084549",
-      "tmdbId": 127,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/rMnXNxBKF8TnYn9NSE2nPTFn5Fq.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt0084549/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Blind%20Chance"
-    },
-    {
-      "rank": 87,
       "title": "The Quiet Girl",
       "year": "2022",
       "imdbRating": 7.7,
@@ -2275,6 +2250,31 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/6Njyz53N417cgxE0d7cBEWHUEjc.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt15109082/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Quiet%20Girl"
+    },
+    {
+      "rank": 87,
+      "title": "Blind Chance",
+      "year": "1987",
+      "imdbRating": 7.7,
+      "imdbVotes": 11524,
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        "Bogusław Linda",
+        "Tadeusz Łomnicki",
+        "Zbigniew Zapasiewicz",
+        "Bogusława Pawelec"
+      ],
+      "directors": [
+        "Krzysztof Kieślowski"
+      ],
+      "creators": [],
+      "imdbID": "tt0084549",
+      "tmdbId": 127,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/rMnXNxBKF8TnYn9NSE2nPTFn5Fq.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt0084549/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Blind%20Chance"
     },
     {
       "rank": 88,
@@ -2396,8 +2396,8 @@
         "Scott Hogsett"
       ],
       "directors": [
-        "Dana Adam Shapiro",
-        "Henry Alex Rubin"
+        "Henry Alex Rubin",
+        "Dana Adam Shapiro"
       ],
       "creators": [],
       "imdbID": "tt0436613",
@@ -2705,8 +2705,8 @@
       ],
       "cast": [
         "Richard Belzer",
-        "Peter Gerety",
         "Giancarlo Esposito",
+        "Peter Gerety",
         "Clark Johnson"
       ],
       "directors": [],
