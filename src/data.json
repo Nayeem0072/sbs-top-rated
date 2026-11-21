@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T22:00:06.198Z",
+  "generatedAt": "2026-11-21T20:41:19.807Z",
   "movies": [
     {
       "rank": 1,
@@ -327,8 +327,8 @@
         "Nasser Adra"
       ],
       "directors": [
-        "Rachel Szor",
-        "Yuval Abraham"
+        "Basel Adra",
+        "Hamdan Ballal"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -342,7 +342,7 @@
       "title": "Close-Up",
       "year": "1990",
       "imdbRating": 8.2,
-      "imdbVotes": 27389,
+      "imdbVotes": 27757,
       "genres": [
         "Crime",
         "Drama"
@@ -1620,32 +1620,6 @@
     },
     {
       "rank": 63,
-      "title": "Nosferatu",
-      "year": "1922",
-      "imdbRating": 7.8,
-      "imdbVotes": 125339,
-      "genres": [
-        "Horror",
-        "Fantasy"
-      ],
-      "cast": [
-        "Max Schreck",
-        "Gustav von Wangenheim",
-        "Greta Schröder",
-        "Georg H. Schnell"
-      ],
-      "directors": [
-        "F. W. Murnau"
-      ],
-      "creators": [],
-      "imdbID": "tt0013442",
-      "tmdbId": 653,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/zv7J85D8CC9qYagAEhPM63CIG6j.jpg",
-      "imdbUrl": "https://www.imdb.com/title/tt0013442/",
-      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Nosferatu"
-    },
-    {
-      "rank": 64,
       "title": "Hunt for the Wilderpeople",
       "year": "2016",
       "imdbRating": 7.8,
@@ -1670,6 +1644,32 @@
       "posterUrl": "https://image.tmdb.org/t/p/w185/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt4698684/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Hunt%20for%20the%20Wilderpeople"
+    },
+    {
+      "rank": 64,
+      "title": "Nosferatu",
+      "year": "1922",
+      "imdbRating": 7.8,
+      "imdbVotes": 125339,
+      "genres": [
+        "Horror",
+        "Fantasy"
+      ],
+      "cast": [
+        "Max Schreck",
+        "Gustav von Wangenheim",
+        "Greta Schröder",
+        "Georg H. Schnell"
+      ],
+      "directors": [
+        "F. W. Murnau"
+      ],
+      "creators": [],
+      "imdbID": "tt0013442",
+      "tmdbId": 653,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/zv7J85D8CC9qYagAEhPM63CIG6j.jpg",
+      "imdbUrl": "https://www.imdb.com/title/tt0013442/",
+      "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=Nosferatu"
     },
     {
       "rank": 65,
@@ -2266,8 +2266,8 @@
         "Flora Robson"
       ],
       "directors": [
-        "Michael Powell",
-        "Emeric Pressburger"
+        "Emeric Pressburger",
+        "Michael Powell"
       ],
       "creators": [],
       "imdbID": "tt0039192",
@@ -2917,7 +2917,7 @@
       ],
       "imdbID": "tt3230854",
       "tmdbId": 63639,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w185/8djpxDeWpINnGhjpFXQjnBe6zbx.jpg",
       "imdbUrl": "https://www.imdb.com/title/tt3230854/",
       "sbsSearchUrl": "https://www.sbs.com.au/ondemand/search?query=The%20Expanse"
     },
