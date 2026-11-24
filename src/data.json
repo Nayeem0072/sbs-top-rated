@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T20:51:39.925Z",
+  "generatedAt": "2026-11-24T01:56:21.243Z",
   "movies": [
     {
       "rank": 1,
@@ -327,8 +327,8 @@
         "Nasser Adra"
       ],
       "directors": [
-        "Rachel Szor",
-        "Yuval Abraham"
+        "Basel Adra",
+        "Hamdan Ballal"
       ],
       "creators": [],
       "imdbID": "tt30953759",
@@ -1062,8 +1062,8 @@
         "Roland Culver"
       ],
       "directors": [
-        "Michael Powell",
-        "Emeric Pressburger"
+        "Emeric Pressburger",
+        "Michael Powell"
       ],
       "creators": [],
       "imdbID": "tt0036112",
